@@ -39,7 +39,7 @@ function App() {
   ]
 
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div>
         <nav className="App-header">
           <img src={logo} alt="logo" className="App-logo"/>
