@@ -7,6 +7,8 @@ Typescript 기반 React 학습을 위한 레포입니다.
 - [React 공식 주요 개념 문서](https://ko.reactjs.org/docs/hello-world.html)
 - [React Typescript Cheetsheet](https://react-typescript-cheatsheet.netlify.app/)
 
+커밋 잘올라가니??
+
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
